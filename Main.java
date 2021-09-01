@@ -8,12 +8,12 @@ class Main {
 
     double blue = totalPieces * .24, brown = totalPieces * .13, green = totalPieces * .16, orange = totalPieces * .20, red = totalPieces * .13, yellow = totalPieces * .14;
 
-    System.out.println("blue: " + blue);
-    System.out.println("brown: " + brown);
-    System.out.println("green: " + green);
-    System.out.println("orange: " + orange);
-    System.out.println("red: " + red);
-    System.out.println("yellow: " + yellow);
+    System.out.println("Blue: " + blue);
+    System.out.println("Brown: " + brown);
+    System.out.println("Green: " + green);
+    System.out.println("Orange: " + orange);
+    System.out.println("Red: " + red);
+    System.out.println("Yellow: " + yellow);
 
     double sum = blue + brown + green + orange + red + yellow;
     System.out.println("Sum: " + sum);
